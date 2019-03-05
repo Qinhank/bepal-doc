@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.42"
+  },
+  "name": "bepal-doc",
+  "description": "必派公司BMS系统文档",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qinhank/bepal-doc.git"
+  },
+  "keywords": [
+    "BMS",
+    "DOC"
+  ],
+  "author": "hankqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qinhank/bepal-doc/issues"
+  },
+  "homepage": "https://github.com/Qinhank/bepal-doc#readme"
+}
